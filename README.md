@@ -1,4 +1,11 @@
 # Interception Tool
+## Disclaimer
+
+This interception tool is developed for educational and research purposes only. It is intended to be used by cybersecurity professionals and ethical hackers to enhance their understanding of network security and to identify vulnerabilities in a controlled and legal environment.
+
+Unauthorized use of this tool to intercept, monitor, or capture data without permission is illegal and unethical. Always obtain proper authorization before performing any network testing or penetration activities. The author of this tool is not responsible for any misuse or illegal activities conducted with this tool.
+
+Use this tool responsibly and in accordance with all applicable laws and regulations.
 
 ## Introduction
 
