@@ -68,7 +68,7 @@ This project consists of:
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/interception-tool.git
-    cd interception-tool
+    cd intercept-tool
     ```
 
 2. Install dependencies:
